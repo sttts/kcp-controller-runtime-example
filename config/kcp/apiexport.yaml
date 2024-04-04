@@ -4,7 +4,7 @@ metadata:
   name: data.my.domain
 spec:
   latestResourceSchemas:
-    - today.widgets.data.my.domain
+    - v040424-0844.widgets.data.my.domain
   permissionClaims:
     - group: ""
       resource: "secrets"

@@ -1,5 +1,5 @@
 resources:
-  - today.apiresourceschemas.yaml
+  - data.my.domain_widgets.yaml
   - apiexport.yaml
   - clusterrole.yaml
   - clusterrolebinding.yaml
